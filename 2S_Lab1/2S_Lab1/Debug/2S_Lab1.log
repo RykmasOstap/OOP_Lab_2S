@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\DHPC\source\repos\2S_Lab1\2S_Lab1\Source.cpp(38,27): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\DHPC\source\repos\2S_Lab1\2S_Lab1\Source.cpp(43,30): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\DHPC\source\repos\2S_Lab1\2S_Lab1\Source.cpp(48,6): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\DHPC\source\repos\2S_Lab1\2S_Lab1\Source.cpp(90,29): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\DHPC\source\repos\2S_Lab1\2S_Lab1\Source.cpp(95,30): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\DHPC\source\repos\2S_Lab1\2S_Lab1\Source.cpp(100,6): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  2S_Lab1.vcxproj -> C:\Users\DHPC\source\repos\2S_Lab1\Debug\2S_Lab1.exe

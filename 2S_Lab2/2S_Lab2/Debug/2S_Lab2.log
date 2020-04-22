@@ -1,0 +1,4 @@
+﻿  2S_Lab2.cpp
+C:\Users\DHPC\source\repos\2S_Lab2\2S_Lab2\2S_Lab2.cpp(74,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DHPC\source\repos\2S_Lab2\2S_Lab2\2S_Lab2.cpp(30,11): warning C4101: arr: неиспользованная локальная переменная
+  2S_Lab2.vcxproj -> C:\Users\DHPC\source\repos\2S_Lab2\Debug\2S_Lab2.exe
